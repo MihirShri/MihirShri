@@ -9,6 +9,6 @@ I'm **Mihir Shri**. I'm a second year Computer Science undergrad pursuing my B.T
 Mail me at mihir.shri10@gmail.com</br>
 Ping me on [LinkedIn](https://www.linkedin.com/in/mihirshri/)
 
-[![Top Langs](https://github-readme-stats.top-langs/?username=MihirShri)](https://github.com/MihirShri/github-readme-stats)
+[![Top Langs](https://github-readme-stats.repositories/api/top-langs/?username=MihirShri)](https://github.com/MihirShri/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=MihirShri&color=green)
