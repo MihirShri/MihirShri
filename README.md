@@ -6,7 +6,7 @@ I have been developing websites for over 2 years now. I'm a self taught Full-Sta
 
 - 📫 How to reach me: </br>
 Mail me at mihir.shri10@gmail.com</br>
-Ping me on [LinkedIn](https://www.linkedin.com/in/mihirshri/)
+Ping me on [LinkedIn](https://www.linkedin.com/in/mihirshri/)</br>
 Checkout my website https://know-mihir.netlify.app/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MihirShri)](https://github.com/MihirShri/github-readme-stats)
